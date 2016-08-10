@@ -1,0 +1,23 @@
+.github-user {
+    display: flex;
+    margin-left: 20px;
+}
+
+.github-user__avatar {
+    display: flex;
+    height: 75px;
+    width: 75px;
+    border-radius: 35px;
+}
+
+.github-user__info {
+    margin-left: 15px;
+}
+
+.main_user_info {
+    display: flex;    
+}
+
+.sub_user_info {
+    display: flex;    
+}

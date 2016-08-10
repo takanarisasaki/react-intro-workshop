@@ -1,0 +1,29 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "react tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js",
+    "dev": "webpack --config webpack.config.js --watch"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "introduction"
+  ],
+  "author": "takanarisasaki",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "express": "^4.14.0",
+    "jquery": "^3.1.0",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "webpack": "^1.13.1"
+  }
+}
